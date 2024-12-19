@@ -1,5 +1,5 @@
 # **Comprehensive Apple Financial Insights: Data Analysis & Visualization with Power BI, Python, and Excel**
-
+<img src="dashboard_img.png" alt="Alt Text" width="1000"/>
 This repository contains a comprehensive analysis and visualization of Apple’s financial performance from 2009 to 2024. It demonstrates the use of multiple data analysis and visualization tools, including Power BI, Python, and Excel, to gain insights into Apple’s key financial metrics.
 
 ## **Project Overview**
@@ -42,6 +42,16 @@ The repository includes the following files:
 - **Profitability Analysis**: A breakdown of key profitability metrics like gross profit, operating income, and net income.
 - **Stock Performance**: Analyzing the P/E ratio, year-end closing prices, and the overall stock performance of Apple.
 - **Financial Ratios**: In-depth insights into Apple’s financial health through various ratios, including Gross Margin, EBITDA margin, and Debt-to-Equity ratio.
+
+## **Project Screenshots**
+
+<img src="revenue_trend_over_time_line_chart.png" alt="Alt Text" width="750"/>
+
+<img src="revenue_versus_net_income_line_chart.png" alt="Alt Text" width="750"/>
+
+<img src="correlation_matrix.png" alt="Alt Text" width="750"/>
+
+<img src="predictions.png" alt="Alt Text" width="750"/>
 
 ## **How to Contribute**
 Feel free to fork the repository, make changes, and create pull requests. Any suggestions or improvements for the analysis, visualizations, or report are welcome!
